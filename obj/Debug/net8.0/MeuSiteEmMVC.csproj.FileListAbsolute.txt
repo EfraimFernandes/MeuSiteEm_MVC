@@ -365,3 +365,4 @@
 /Users/efraimfernandes/Documents/DotNet/MeuSiteEmMVC/obj/Debug/net8.0/MeuSiteEmMVC.csproj.AssemblyReference.cache
 /Users/efraimfernandes/Documents/DotNet/MeuSiteEmMVC/obj/Debug/net8.0/MeuSiteEmMVC.MvcApplicationPartsAssemblyInfo.cs
 /Users/efraimfernandes/Documents/DotNet/MeuSiteEmMVC/obj/Debug/net8.0/MeuSiteEmMVC.csproj.CopyComplete
+/Users/efraimfernandes/Documents/DotNet/MeuSiteEmMVC/obj/Debug/net8.0/MeuSiteEmMVC.sourcelink.json
